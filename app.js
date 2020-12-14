@@ -9,6 +9,6 @@ function updateTimer(){
   let seconds = time % 60
   
   seconds = seconds < 10 ? '0' + seconds : seconds
-  count.innerHTML = '${minutes}:${seconds}'
+  count.innerHTML = `${minutes}:${seconds}`
   time--
 }
