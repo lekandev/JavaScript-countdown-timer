@@ -7,8 +7,7 @@ body{
   background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(8,129,131,0.9793022473653158) 39%, rgba(0,212,255,1) 100%);
 }
 #countdownTimer{
-  color: #fff;
-  font-size: 5rem;
+  font-size: 10rem;
   font-weight: 800;
   font-family: Sans-Serif;
   background: -webkit-linear-gradient(#eee, #333);
